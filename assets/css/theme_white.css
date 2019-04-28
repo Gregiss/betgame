@@ -1,0 +1,13 @@
+body{
+    background: var(--body2);
+    color: var(--body);
+}
+
+.main{
+    background-color: var(--body2);
+}
+
+.trans{
+    background: rgba(0,0,0,.50) !important;
+    color: #fff !important;
+}
